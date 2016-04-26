@@ -1,0 +1,28 @@
+name: Charles Warren Product Design
+favicon: null
+layout_spectrum: 0.6974824448116124
+typography_spectrum: 0.6734668840654194
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7101965814363211
+  lightness: 0.9077209951356053
+  saturation: 0.2940190031658858
+  rhythmicContrast: 0.18417359935119748
+purpose: []
