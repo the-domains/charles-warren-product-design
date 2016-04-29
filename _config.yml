@@ -2,6 +2,7 @@ name: Charles Warren Product Design
 favicon: null
 layout_spectrum: 0.11226
 typography_spectrum: 0.89528
+title: "Charles Warren's online portfolio"
 cta:
   domain: null
   bucket: null
