@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'My Tenure as SVP of product design at Salesforce offered me two new challenges: How to lead a large design team that had suffered under changing interim leadership for over two years, and second, how to help Salesforce embrace the mobile sales future in its products, that it was promoting in its marketing messages.'
-datePublished: '2016-05-09T00:06:13.981Z'
-dateModified: '2016-05-08T23:52:13.726Z'
+datePublished: '2016-05-09T16:37:27.790Z'
+dateModified: '2016-05-09T00:44:25.529Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-08-my-tenure-as-svp-of-product-design-at-salesforce-offered-me.md
@@ -21,6 +21,7 @@ url: my-tenure-as-svp-of-product-design-at-salesforce-offered-me/index.html
 _type: Article
 
 ---
+# I led the Salesforce Product Design team for a year and a half
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/834fbded-7d3e-4b59-bb1b-b35637db8825.jpg)
 
 My Tenure as SVP of product design at Salesforce offered me two new challenges: How to lead a large design team that had suffered under changing interim leadership for over two years, and second, how to help Salesforce embrace the mobile sales future in its products, that it was promoting in its marketing messages.
