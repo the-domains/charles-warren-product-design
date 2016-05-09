@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'My tenure at Google had two phases: the Mobile era and the Social Era.'
-datePublished: '2016-05-08T02:46:37.194Z'
-dateModified: '2016-05-08T02:18:10.976Z'
+datePublished: '2016-05-09T00:45:06.141Z'
+dateModified: '2016-05-08T23:54:43.953Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-08-my-tenure-at-google-had-two-phases-the-mobile-era-and-the-s.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-08-my-tenure-at-google-had-two-phases-the-mobile-era-and-the-s.md
 url: my-tenure-at-google-had-two-phases-the-mobile-era-and-the-s/index.html
 _type: Article
 
