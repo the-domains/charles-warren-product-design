@@ -4,7 +4,7 @@
         <description><![CDATA[Product Designer Charles Warren's Portfolio. 2001-2016]]></description>
         <link>https://thegrid.ai/charles-warren-product-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 16:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 19:14:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/charles-warren-product-design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -18,7 +18,14 @@
             <description><![CDATA[<p>My Tenure as SVP of product design at Salesforce offered me two new challenges: How to lead a large design team that had suffered under changing interim leadership for over two years, and second, how to help Salesforce embrace the mobile sales future in its products, that it was promoting in its marketing messages.</p>]]></description>
             <link>https://thegrid.ai/charles-warren-product-design/my-tenure-as-svp-of-product-design-at-salesforce-offered-me/index.html</link>
             <guid isPermaLink="false">09d764dc-6225-4052-a090-cc7dac976fb5</guid>
-            <pubDate>Mon, 09 May 2016 16:37:27 GMT</pubDate>
+            <pubDate>Wed, 11 May 2016 19:14:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2001-2006 IDEO]]></title>
+            <description><![CDATA[<article><h1>2001-2006 IDEO</h1><p>As the first dotcom boom collapsed, I saw that the product design discipline could be applied to a wide range of things beyond toothbrushes and car dashboards.</p></article>]]></description>
+            <link>https://thegrid.ai/charles-warren-product-design/2001-2006-ideo/index.html</link>
+            <guid isPermaLink="false">2de2eba6-8b08-4250-84e7-2494a0bf641a</guid>
+            <pubDate>Mon, 09 May 2016 16:39:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -54,13 +61,6 @@
             <link>https://thegrid.ai/charles-warren-product-design/google-mobile-2007-2010/index.html</link>
             <guid isPermaLink="false">59eb9ba2-e103-46f0-8423-0ebd88f063f2</guid>
             <pubDate>Sat, 30 Apr 2016 00:50:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>2001-2006 IDEO</p>]]></description>
-            <link>https://thegrid.ai/charles-warren-product-design/2001-2006-ideo/index.html</link>
-            <guid isPermaLink="false">2de2eba6-8b08-4250-84e7-2494a0bf641a</guid>
-            <pubDate>Fri, 29 Apr 2016 23:03:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
