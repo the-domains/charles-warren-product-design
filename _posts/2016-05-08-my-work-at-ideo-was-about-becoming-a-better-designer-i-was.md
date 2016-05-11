@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'My work at IDEO was about becoming a better designer. I was hired on the strength of my design facilitation skills: I had run dozens of "Deep Dive," style projects for clients at Scient, (now Razorfish), and that kind of work was becoming a mainstay at IDEO.'
-datePublished: '2016-05-11T19:16:17.145Z'
-dateModified: '2016-05-09T00:45:54.650Z'
+datePublished: '2016-05-11T21:27:28.493Z'
+dateModified: '2016-05-11T21:27:27.759Z'
 title: "I helped transform IDEO's famous design process, and then I led it into the Mobile era"
 author: []
 sourcePath: _posts/2016-05-08-my-work-at-ideo-was-about-becoming-a-better-designer-i-was.md
