@@ -4,7 +4,7 @@
         <description><![CDATA[Product Designer Charles Warren's Portfolio. 2001-2016]]></description>
         <link>https://thegrid.ai/charles-warren-product-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 18:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 18:17:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/charles-warren-product-design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Chief Product Officer Gradle]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/charles-warren-product-design/how-to-hire-me-to-run-your-design-sprint/index.html</link>
             <guid isPermaLink="false">eaee0050-8656-48fe-92cb-c9663ac7bc6e</guid>
             <pubDate>Wed, 11 May 2016 21:15:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2010-2012. Design Lead for Google+ from zero to 150 million users.]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6450318-b894-46e0-8c43-5441516d5893.jpg">]]></description>
+            <link>https://thegrid.ai/charles-warren-product-design/2010-2012-google-plus/index.html</link>
+            <guid isPermaLink="false">3b28ce54-2811-4ed1-8b8c-b62759452b50</guid>
+            <pubDate>Thu, 18 Aug 2016 18:17:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2007-2012: Google Mobile and Social]]></title>
@@ -47,13 +54,6 @@
             <link>https://thegrid.ai/charles-warren-product-design/google-mobile-2007-2010/index.html</link>
             <guid isPermaLink="false">59eb9ba2-e103-46f0-8423-0ebd88f063f2</guid>
             <pubDate>Wed, 11 May 2016 19:17:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6450318-b894-46e0-8c43-5441516d5893.jpg">]]></description>
-            <link>https://thegrid.ai/charles-warren-product-design/2010-2012-google-plus/index.html</link>
-            <guid isPermaLink="false">3b28ce54-2811-4ed1-8b8c-b62759452b50</guid>
-            <pubDate>Mon, 09 May 2016 00:48:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
