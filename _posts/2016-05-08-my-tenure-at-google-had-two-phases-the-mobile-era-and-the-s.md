@@ -1,27 +1,27 @@
 ---
+datePublished: '2016-08-18T18:16:43.659Z'
+sourcePath: >-
+  _posts/2016-05-08-my-tenure-at-google-had-two-phases-the-mobile-era-and-the-s.md
 inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: 'My tenure at Google had two phases: the Mobile era and the Social Era.'
-datePublished: '2016-05-09T00:45:06.141Z'
-dateModified: '2016-05-08T23:54:43.953Z'
-title: ''
-author: []
-sourcePath: _posts/2016-05-08-my-tenure-at-google-had-two-phases-the-mobile-era-and-the-s.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-18T18:16:43.103Z'
+title: ''
+publisher: {}
+description: >-
+  My work experience at Google had two phases: the Mobile era and the Social
+  Era.
+inLanguage: null
+inNav: true
 starred: false
 url: my-tenure-at-google-had-two-phases-the-mobile-era-and-the-s/index.html
 _type: Article
 
 ---
-My tenure at Google had two phases: the Mobile era and the Social Era.
+My work experience at Google had two phases: the Mobile era and the Social Era.
 
 I joined Google's mobile team in 2007 just prior to the launch of the iPhone. I worked on the existing suite of mobile products that ran in early browsers on Nokia and Palm devices. Once the iPhone launched, and Google responded with Android, our world changed. Mobile suddenly became the future, and the number of users we were supporting began to grow quickly.
 
@@ -33,4 +33,4 @@ It is now 2010 and Facebook is on the march. The social era begins. A few of us 
 
 I'm proud of the design work in the product, particularly its Photos and Hangouts features, but the hype is almost impossible to overcome, and soon after launch, the press begins to predict Google+'s demise.
 
-Having grown the design team to over 60 people, I'm itching to get back to project work. My last project at Google is called "Carousel," a product that launches about a year later called, "Google Stories:" It offers a better way to make use of the hundreds of photos and videos users upload every week, and cut down on the drudgery of editing and processing all that material.
+Having grown the design team to over 60 people, I'm itching to get back to project work. My last project at Google was called "Carousel," a product that launches about a year later called, "Google Stories:" It offers a better way to make use of the hundreds of photos and videos users upload every week, and cut down on the drudgery of editing and processing all that material.
