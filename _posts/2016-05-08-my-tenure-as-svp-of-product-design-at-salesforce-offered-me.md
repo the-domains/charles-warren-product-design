@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-18T18:15:48.938Z'
+datePublished: '2016-08-19T20:03:01.867Z'
 sourcePath: >-
   _posts/2016-05-08-my-tenure-as-svp-of-product-design-at-salesforce-offered-me.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-18T18:15:48.509Z'
+dateModified: '2016-08-19T20:03:00.929Z'
 title: ''
 publisher: {}
 description: >-
