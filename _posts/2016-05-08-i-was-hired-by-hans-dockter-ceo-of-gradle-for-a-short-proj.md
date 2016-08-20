@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T23:28:17.183Z'
+datePublished: '2016-08-20T00:06:52.985Z'
 sourcePath: >-
   _posts/2016-05-08-i-was-hired-by-hans-dockter-ceo-of-gradle-for-a-short-proj.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-19T23:28:16.721Z'
+dateModified: '2016-08-20T00:06:52.476Z'
 title: Gradle Chief Product Officer 2015-2016
 publisher: {}
 description: >-
