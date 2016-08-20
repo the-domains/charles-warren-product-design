@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T23:04:53.975Z'
+datePublished: '2016-08-19T23:09:06.206Z'
 sourcePath: >-
   _posts/2016-05-08-i-was-hired-by-hans-dockter-ceo-of-gradle-for-a-short-proj.md
 inFeed: true
@@ -8,13 +8,13 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-19T23:04:53.493Z'
+dateModified: '2016-08-19T23:09:05.769Z'
 title: Gradle Chief Product Officer 2015-2016
 publisher: {}
 description: >-
   I joined Gradle as its Chief Product Officer in April 2015. I led the design
   of its SaaS product, which we released in November. I left the company in May
-  of 2016 when the CEO
+  of 2016.
 inLanguage: null
 inNav: true
 starred: true
@@ -23,11 +23,11 @@ _type: Article
 
 ---
 # Gradle Chief Product Officer 2015-2016
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/635137b139fbe2f1e3c8183c9599c8a9328e7e30.jpg)
+![Developers can use their phone in their development process with Gradle](https://s3-us-west-2.amazonaws.com/the-grid-img/p/635137b139fbe2f1e3c8183c9599c8a9328e7e30.jpg)
 
-I joined Gradle as its Chief Product Officer in April 2015\. I led the design of its SaaS product, which we released in November. I left the company in May of 2016 when the CEO
+I joined Gradle as its Chief Product Officer in April 2015\. I led the design of its SaaS product, which we released in November. I left the company in May of 2016\.
 
-Based on the strength of the feedback, I saw an opportunity to join the company as its Chief Product Officer. I led the team through the first release of the SaaS, and subsequent Series A fundraising round.
+I built a world-class design and front-end engineering team, led the team through the first release of the SaaS, and finally, I helped pitch the Series A fundraising round.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8de79ff82588f1a57d32d09cc71aea249468168.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ca5ddeea01a382580d80280cdd54eb2b84ae672.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/21634a8bdb0b9e8027733c1b45612cdc140e3002.jpg)
