@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T00:06:52.985Z'
+datePublished: '2016-08-20T00:12:54.321Z'
 sourcePath: >-
   _posts/2016-05-08-i-was-hired-by-hans-dockter-ceo-of-gradle-for-a-short-proj.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-20T00:06:52.476Z'
+dateModified: '2016-08-20T00:12:53.738Z'
 title: Gradle Chief Product Officer 2015-2016
 publisher: {}
 description: >-
@@ -23,7 +23,8 @@ _type: Article
 
 ---
 # Gradle Chief Product Officer 2015-2016
-![Developers can use their phone in their development process with Gradle](https://s3-us-west-2.amazonaws.com/the-grid-img/p/635137b139fbe2f1e3c8183c9599c8a9328e7e30.jpg)
+![Gradle's landing page before and after I re-designed it.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/26da42a8-080c-456d-88d0-9f5d7fcd9075.png)
+![Developers can use their phone in their development process with Gradle](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/24b5cab6d029682dc45004a58d6bb9da/croprotate.png?cropheight=2773&cropwidth=1246&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F28cfe45cf0ac621d9ad2f102eae4a2eed25f6a9b.png&x=0&y=0)
 
 I joined Gradle as its Chief Product Officer in April 2015\. I led the design of its SaaS product, which we released in November. I left the company in May of 2016\.
 
