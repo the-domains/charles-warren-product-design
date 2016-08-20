@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T23:11:38.718Z'
+datePublished: '2016-08-19T23:25:54.725Z'
 sourcePath: >-
   _posts/2016-05-08-my-tenure-as-svp-of-product-design-at-salesforce-offered-me.md
 inFeed: true
@@ -8,11 +8,11 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-19T23:11:38.197Z'
+dateModified: '2016-08-19T23:25:54.292Z'
 title: '2013-2014: Salesforce Product Design team SVP'
 publisher: {}
 description: >-
-  My Tenure as the first SVP of product design at Salesforce offered me two new
+  My tenure as the first SVP of product design at Salesforce offered me two new
   challenges: How to lead a large design team that had drifted due to changing
   interim leadership for over two years, and second, how to help Salesforce
   embrace the mobile sales future in its products it was promoting in its
@@ -26,11 +26,11 @@ _type: Article
 ---
 # 2013-2014: Salesforce Product Design team SVP
 
-My Tenure as the first SVP of product design at Salesforce offered me two new challenges: How to lead a large design team that had drifted due to changing interim leadership for over two years, and second, how to help Salesforce embrace the mobile sales future in its products it was promoting in its marketing messages.
+My tenure as the first SVP of product design at Salesforce offered me two new challenges: How to lead a large design team that had drifted due to changing interim leadership for over two years, and second, how to help Salesforce embrace the mobile sales future in its products it was promoting in its marketing messages.
 
 I found a team with incredible talent: from leadership through to individual contributors, but with little cohesion, shared values, or agreed work processes.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/834fbded-7d3e-4b59-bb1b-b35637db8825.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/977fb612-08e1-49ac-9452-f5223262357d.png)
+![The Salesforce UX team, summer 2014](https://the-grid-user-content.s3-us-west-2.amazonaws.com/834fbded-7d3e-4b59-bb1b-b35637db8825.jpg)
+![Collaborating on product development](https://the-grid-user-content.s3-us-west-2.amazonaws.com/977fb612-08e1-49ac-9452-f5223262357d.png)
 ![Salesforce1: Salesforce's flagship Mobile platform](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cf3f7c3bcd9901c9a7936df1c4632ec9fab4f85.png)
 
 The UX leadership team and I set about righting the ship: we began an ambitious project to make Salesforce mobile once-and-for-all called "Salesforce1", we hired a new layer of experienced UX leaders who began to shape the various product teams into functional collaborative units. We worked hard to unify and update Salesforce's famously outdated visual design: One research subject said, "the 90's called and it wants its UI back." during a feedback session.
