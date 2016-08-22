@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T23:25:54.725Z'
+datePublished: '2016-08-21T23:59:02.120Z'
 sourcePath: >-
   _posts/2016-05-08-my-tenure-as-svp-of-product-design-at-salesforce-offered-me.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-19T23:25:54.292Z'
+dateModified: '2016-08-21T23:59:01.631Z'
 title: '2013-2014: Salesforce Product Design team SVP'
 publisher: {}
 description: >-
@@ -29,7 +29,7 @@ _type: Article
 My tenure as the first SVP of product design at Salesforce offered me two new challenges: How to lead a large design team that had drifted due to changing interim leadership for over two years, and second, how to help Salesforce embrace the mobile sales future in its products it was promoting in its marketing messages.
 
 I found a team with incredible talent: from leadership through to individual contributors, but with little cohesion, shared values, or agreed work processes.
-![The Salesforce UX team, summer 2014](https://the-grid-user-content.s3-us-west-2.amazonaws.com/834fbded-7d3e-4b59-bb1b-b35637db8825.jpg)
+![The Salesforce UX team, summer 2014](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f458e9c1-cd97-463d-a7bf-984d73167db9.jpg)
 ![Collaborating on product development](https://the-grid-user-content.s3-us-west-2.amazonaws.com/977fb612-08e1-49ac-9452-f5223262357d.png)
 ![Salesforce1: Salesforce's flagship Mobile platform](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cf3f7c3bcd9901c9a7936df1c4632ec9fab4f85.png)
 
