@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-08-16T19:09:46.267Z'
+datePublished: '2017-08-16T19:13:48.537Z'
 sourcePath: _posts/2016-11-22-charles-warren.md
 inFeed: true
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-08-16T19:09:45.771Z'
+dateModified: '2017-08-16T19:13:47.849Z'
 title: Resume
 publisher: {}
 description: >-
@@ -42,8 +42,8 @@ _April 2015 - April 2016_
 
 Gradle is the world's leading software build tool.
 
-* Designed, prototyped, led the engineering team, and launch of a SaaS product for the industry-leading software build tool.
-* Pitched the A Round investment to 20 leading VCs, resulting in an $11 mm investment.
+* Designed, prototyped, collaborated with the engineering team, on the launch of a SaaS product for the industry-leading software build tool.
+* Pitched the A Round investment to 20 leading VCs, resulting in **closing $11 mm in funding**.
 
 ## Founder and CEO at Headway, Inc
 
@@ -58,17 +58,17 @@ December 2012 - June 2014 (1 year 7 months)
 * Set the agenda for design at Salesforce as its **first SVP of product design**.
 * Recruited and onboarded over **40 designers**, researchers and prototypers in 18 months.
 * Instigated the "Salesforce One" mobile platform product design.
-* Instigated the implementation of Salesforce's mobile visual style guide.
+* Instigated the implementation of Salesforce's mobile **visual style guide**.
 * Led the design and roll out of the UX team organizational structure creation: role definitions, performance feedback, and career path tools.
 * Instigated the rollout of evidence-based Salesforce user personas.
-* Led the formation of a highly effective rapid prototyping team.
+* Led the formation of a highly effective **rapid prototyping team**.
 
 ## UX Lead for Social Products at Google
 
 _January 2011 - July 2012_
 
-* Built the Google Plus (i.e. Social) user experience organization from a startup to 50+ UX designers, visual designers, and UX researchers.
-* Led the Google+ UX team from the product strategy through launch, to over 100 million users today.
+* Built the Google Plus (i.e. Social) user experience organization from a startup to **50+ UX designers, visual designers, and UX researchers**.
+* Led the Google+ UX team from the product strategy through launch, to over **100 million users** today.
 * Led the UX product strategy for Google+ _Albums_, which launched to developers at I/O in June of 2012\.
 
 ## Manager, Mobile User Experience at Google
@@ -83,7 +83,7 @@ _December 2008 - January 2011_
 
 _January 2007 - December 2008_
 
-Led product design projects for **developing markets**. Designed for the infrastructure and cultures in Africa, China, and India.
+Led product design projects for **developing markets**. Designed for the infrastructure and cultures in **Africa, China, and India**.
 
 ## Practice Lead at IDEO
 
@@ -95,7 +95,7 @@ IDEO's "Software Experience Design" (SX) practice helps companies develop valuab
 
 _March 2002 - January 2003_
 
-Founded a firm with Christopher Barr and Gerald Sindell to license tools developed by business leaders like Daniel Pink and Jeffrey Fox to consulting and training firms.
+Founded a firm with Christopher Barr and Gerald Sindell to license tools developed by business leaders like **Daniel Pink and Jeffrey Fox** to consulting and training firms.
 
 ## VP Consulting Services at Idea Factory
 
