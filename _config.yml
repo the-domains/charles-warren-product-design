@@ -1,24 +1,28 @@
-typography_spectrum: 0.1791988331824541
+layout_spectrum: 0.251668569899284
+typography_spectrum: 0.45090146646143336
 color:
   brandColors:
-    - '#ffffff'
-    - '#36bee5'
-    - '#207adf'
-    - '#3dd7e6'
-    - '#bbe3f6'
-  brandStrength: 0
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.5
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.4796124131924076
+  lightness: 0.36834884746046276
+  saturation: 0.5736149705336013
+  rhythmicContrast: 0.8781365209390953
 opengraph:
   image: null
-  type: null
-  appId: null
-layout_spectrum: 0
+  type: ''
+  appId: '2439669642924208'
 analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Charles Warren
+  email: charles@charleswarrenproductdesign.com
+  url: 'https://thegrid.ai/charles-warren-product-design/'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0368ff8b-1104-4f15-a3df-08e95b73f199.png
 name: Charles Warren Product Design
@@ -27,20 +31,58 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: Gradle Chief Product Officer 2015-2016
+    id: 9d4eb6a8-7b5f-4851-aa0e-69069164fc16
+    type: content
   - name: Salesforce Product Design SVP 2012-2014
     id: 09d764dc-6225-4052-a090-cc7dac976fb5
     type: content
-  - name: Design lead Google+ 2010-2012
+  - name: Design lead Google Plus 2010-2012
     id: 3b28ce54-2811-4ed1-8b8c-b62759452b50
     type: content
-  - name: Google Mobile 2007-2010
+  - name: Google Mobile product designer 2007-2010
     id: 59eb9ba2-e103-46f0-8423-0ebd88f063f2
     type: content
-  - name: IDEO 2001-2006
+  - name: IDEO Practice lead 2001-2006
     id: c4aa8806-8bee-4713-b2ac-cc064668e42f
     type: content
+  - name: Resume
+    id: 479d76c6-5cb2-4f43-b798-b3750927a622
+    type: content
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/67ed8e4d-ae2a-4c54-bb01-3dc075c20ffb.png
-title: Product Designer Charles Warren's Portfolio. 2001-2016
-description: 'Designing powerful, beautiful products for work and life.'
-purpose: []
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a0069da-70d1-4b07-bb15-9c1f36f0761f.png
+title: Hi. I'm Charles
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: article
+    html: >-
+      <article><h1>YouTube</h1><p>Share your videos with friends, family, and
+      the world.</p><img
+      src="https://ssl.gstatic.com/accounts/ui/avatar_2x.png"></article>
+    src: 'https://ssl.gstatic.com/accounts/ui/avatar_2x.png'
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://accounts.google.com'
+        name: Google
+        favicon: 'https://accounts.google.com/favicon.ico'
+        domain: www.youtube.com
+      keywords: []
+      description: 'Share your videos with friends, family, and the world.'
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: 'https://www.youtube.com/edit?o=U&video_id=jNmgMQYSNF8'
+      title: YouTube
+      datePublished: null
+    title: YouTube
+    caption: 'Share your videos with friends, family, and the world.'
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: ' My portfolio.'
+purpose:
+  - type: contact
+    url: 'mailto:charles@charleswarrenproductdesign.com'
+    label: Contact me
+url: 'https://charleswarrenproductdesign.com/'
+github: true
