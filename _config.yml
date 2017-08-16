@@ -52,43 +52,7 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a0069da-70d1-4b07-bb15-9c1f36f0761f.png
 title: Hi. I'm Charles
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: video
-    html: >-
-      <iframe
-      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FjNmgMQYSNF8%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjNmgMQYSNF8&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FjNmgMQYSNF8%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube"
-      width="640" height="360" scrolling="no" frameborder="0"
-      allowfullscreen></iframe>
-    src: !<tag:yaml.org,2002:js/undefined> ''
-    metadata:
-      author:
-        - name: Charles Warren
-          url: 'https://www.youtube.com/user/chwsfo'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: youtu.be
-      keywords:
-        - video
-        - sharing
-        - camera phone
-        - video phone
-        - free
-        - upload
-      description: Uploaded by Charles Warren on 2016-05-16.
-      '@type': VideoObject
-      app_links: []
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://youtu.be/jNmgMQYSNF8'
-      title: 21 Beaver Island my earliest memory
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: ' This is my portfolio.'
 purpose:
   - type: contact
