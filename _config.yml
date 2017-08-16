@@ -80,7 +80,6 @@ content:
         - free
         - upload
       description: Uploaded by Charles Warren on 2016-05-16.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links: []
       '@context': 'http://schema.org'
@@ -90,7 +89,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: ' My portfolio.'
+description: ' This is my portfolio.'
 purpose:
   - type: contact
     url: 'mailto:charles@charleswarrenproductdesign.com'
