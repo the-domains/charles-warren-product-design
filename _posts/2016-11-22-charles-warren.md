@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-08-16T19:08:56.493Z'
+datePublished: '2017-08-16T19:09:46.267Z'
 sourcePath: _posts/2016-11-22-charles-warren.md
 inFeed: true
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-08-16T19:08:55.905Z'
+dateModified: '2017-08-16T19:09:45.771Z'
 title: Resume
 publisher: {}
 description: >-
@@ -33,6 +33,8 @@ I've learned how to ship great products at scale by transforming willing organiz
 _April 2003 - Present_
 
 I'll help you whip that product into shape in no time.
+
+Clients include Opower, Resource.io, Kaiser Permanente.
 
 ## Chief Product Officer, Gradle, Inc.
 
